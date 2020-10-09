@@ -19,7 +19,7 @@
     "prettier": "prettier --ignore-path .gitignore --write --list-different \"**/*.{ts,tsx,graphql,yml}\""
   },
   "devDependencies": {
-    "@changesets/cli": "2.10.3",
+    "@changesets/cli": "2.11.0",
     "@typescript-eslint/eslint-plugin": "4.4.0",
     "@typescript-eslint/parser": "4.4.0",
     "eslint": "7.10.0",
